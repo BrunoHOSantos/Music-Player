@@ -8,21 +8,21 @@ const songs = [
         title: "Música 1",
         artist: "Artista 1",
         cover: "assets/images/cover1.png",
-        audio: "assets/audio/Cartoon, Jéja - Why We Lose (feat. Coleman Trapp) DnB NCS - Copyright Free Music"
+        audio: "assets/audio/Musica1"
     },
 
     {
         title: "Música 2",
         artist: "Artista 2",
         cover: "assets/images/cover2.png",
-        audio: "assets/audio/Ship Wrek & Zookeepers - Ark Future Bass - Copyright Free Music"
+        audio: "assets/audio/Musica2"
     },
 
     {
         title: "Música 3",
         artist: "Artista 3",
         cover: "assets/images/cover3.png",
-        audio: "assets/audio/Silver Bullet, Jess Cullity - Watching You  House  NCS - Copyright Free Music"
+        audio: "assets/audio/Musica3"
     }
 
 ];
