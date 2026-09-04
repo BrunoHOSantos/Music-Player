@@ -5,24 +5,24 @@
 const songs = [
 
     {
-        title: "Música 1",
-        artist: "Artista 1",
+        title: "Why We Lose (feat. Coleman Trapp)",
+        artist: "Cartoon, Jéja (feat. Coleman Trapp)",
         cover: "assets/images/cover1.png",
-        audio: "assets/audio/Musica1"
+        audio: "assets/audio/Musica1.mp3"
     },
 
     {
-        title: "Música 2",
-        artist: "Artista 2",
+        title: "Ship Wrek & Zookeepers",
+        artist: "Ark | Future Bass | NCS",
         cover: "assets/images/cover2.png",
-        audio: "assets/audio/Musica2"
+        audio: "assets/audio/Musica2.mp3"
     },
 
     {
-        title: "Música 3",
-        artist: "Artista 3",
+        title: "Watching You",
+        artist: "Silver Bullet, Jess Cullity",
         cover: "assets/images/cover3.png",
-        audio: "assets/audio/Musica3"
+        audio: "assets/audio/Musica3.mp3"
     }
 
 ];
