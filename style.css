@@ -1,0 +1,464 @@
+/* =========================================
+   CONFIGURAÇÕES GERAIS
+========================================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    min-height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 30px;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    background:
+        linear-gradient(
+            135deg,
+            #121212,
+            #1e1e1e,
+            #111111
+        );
+
+    color: white;
+}
+
+
+/* =========================================
+   CONTAINER PRINCIPAL
+========================================= */
+
+.player-container {
+
+    width: 100%;
+    max-width: 430px;
+
+    padding: 30px;
+
+    border-radius: 20px;
+
+    background: #181818;
+
+    box-shadow:
+        0 20px 50px rgba(0, 0, 0, 0.5);
+
+}
+
+
+/* =========================================
+   CABEÇALHO
+========================================= */
+
+.player-header {
+
+    text-align: center;
+
+    margin-bottom: 25px;
+}
+
+
+.player-header h1 {
+
+    font-size: 28px;
+
+    margin-bottom: 8px;
+}
+
+
+.player-header p {
+
+    color: #aaaaaa;
+
+    font-size: 14px;
+}
+
+
+/* =========================================
+   CAPA
+========================================= */
+
+.album {
+
+    width: 100%;
+
+    display: flex;
+
+    justify-content: center;
+
+    margin-bottom: 25px;
+}
+
+
+.album img {
+
+    width: 100%;
+
+    max-width: 300px;
+
+    aspect-ratio: 1 / 1;
+
+    object-fit: cover;
+
+    border-radius: 15px;
+
+    box-shadow:
+        0 15px 35px rgba(0, 0, 0, 0.5);
+
+    transition:
+        transform 0.3s ease;
+}
+
+
+.album img:hover {
+
+    transform: scale(1.02);
+}
+
+
+/* =========================================
+   INFORMAÇÕES DA MÚSICA
+========================================= */
+
+.song-info {
+
+    text-align: center;
+
+    margin-bottom: 25px;
+}
+
+
+.song-info h2 {
+
+    font-size: 22px;
+
+    margin-bottom: 8px;
+}
+
+
+.song-info p {
+
+    color: #aaaaaa;
+
+    font-size: 15px;
+}
+
+
+/* =========================================
+   PROGRESSO
+========================================= */
+
+.progress-container {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 10px;
+
+    margin-bottom: 20px;
+}
+
+
+.progress-container span {
+
+    min-width: 35px;
+
+    color: #aaaaaa;
+
+    font-size: 12px;
+
+    text-align: center;
+}
+
+
+#progress {
+
+    flex: 1;
+
+    cursor: pointer;
+}
+
+
+/* =========================================
+   CONTROLES
+========================================= */
+
+.controls {
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    gap: 25px;
+
+    margin-bottom: 25px;
+}
+
+
+button {
+
+    border: none;
+
+    cursor: pointer;
+
+    color: white;
+
+    background: transparent;
+
+    font-size: 25px;
+
+    transition:
+        transform 0.2s ease,
+        opacity 0.2s ease;
+}
+
+
+button:hover {
+
+    transform: scale(1.1);
+
+    opacity: 0.8;
+}
+
+
+/* =========================================
+   BOTÃO PLAY
+========================================= */
+
+.play-button {
+
+    width: 65px;
+
+    height: 65px;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    border-radius: 50%;
+
+    background: white;
+
+    color: black;
+
+    font-size: 25px;
+}
+
+
+.play-button:hover {
+
+    transform: scale(1.08);
+
+    opacity: 1;
+}
+
+
+/* =========================================
+   VOLUME
+========================================= */
+
+.volume-container {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 10px;
+
+    margin-bottom: 30px;
+}
+
+
+#volume {
+
+    flex: 1;
+
+    cursor: pointer;
+}
+
+
+/* =========================================
+   INPUT RANGE
+========================================= */
+
+input[type="range"] {
+
+    appearance: none;
+
+    height: 5px;
+
+    border-radius: 10px;
+
+    background: #555;
+
+}
+
+
+input[type="range"]::-webkit-slider-thumb {
+
+    appearance: none;
+
+    width: 14px;
+
+    height: 14px;
+
+    border-radius: 50%;
+
+    background: white;
+
+    cursor: pointer;
+}
+
+
+/* =========================================
+   PLAYLIST
+========================================= */
+
+.playlist-section h3 {
+
+    margin-bottom: 15px;
+
+    font-size: 18px;
+}
+
+
+#playlist {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 8px;
+}
+
+
+.playlist-item {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 12px;
+
+    padding: 10px;
+
+    border-radius: 10px;
+
+    cursor: pointer;
+
+    background: #222;
+
+    transition:
+        background 0.2s ease,
+        transform 0.2s ease;
+}
+
+
+.playlist-item:hover {
+
+    background: #2d2d2d;
+
+    transform: translateX(3px);
+}
+
+
+.playlist-item.active {
+
+    background: #333;
+}
+
+
+.playlist-item img {
+
+    width: 45px;
+
+    height: 45px;
+
+    object-fit: cover;
+
+    border-radius: 6px;
+}
+
+
+.playlist-info {
+
+    flex: 1;
+
+    overflow: hidden;
+}
+
+
+.playlist-title {
+
+    font-size: 14px;
+
+    font-weight: bold;
+
+    white-space: nowrap;
+
+    overflow: hidden;
+
+    text-overflow: ellipsis;
+}
+
+
+.playlist-artist {
+
+    margin-top: 4px;
+
+    color: #999;
+
+    font-size: 12px;
+}
+
+
+/* =========================================
+   RESPONSIVIDADE
+========================================= */
+
+@media (max-width: 500px) {
+
+    body {
+
+        padding: 15px;
+    }
+
+
+    .player-container {
+
+        padding: 20px;
+
+        border-radius: 15px;
+    }
+
+
+    .player-header h1 {
+
+        font-size: 24px;
+    }
+
+
+    .album img {
+
+        max-width: 250px;
+    }
+
+
+    .controls {
+
+        gap: 20px;
+    }
+
+}
