@@ -5,19 +5,13 @@
 ---
 # 🤖 IA "Professor" do projeto
 
-### Link:
+### 🔗 Link:
 https://notebook.google.com/notebook/dbf283cb-020a-4037-a663-530d9215b29f/preview
 
-<!--
-COLOQUE AQUI O LINK PARA A DEMONSTRAÇÃO DO PROJETO
-
-Exemplo:
-
-[🎧 Acessar o Music Player](https://seu-link-aqui.com)
--->
+### 📚 Apresentação: 
 
 <br/><br/>
-## 📌 Sobre o Projeto
+# 📌 Sobre o Projeto
 
 Este projeto consiste no desenvolvimento de um **Music Player Web**, inspirado em plataformas modernas de streaming de música.
 
@@ -47,9 +41,7 @@ Além de funcionar como um player de música, o projeto também serve como labor
 
 ---
 
-# 🎧 Demonstração
-
-## ▶️ Player funcionando
+## 🎧 Player funcionando
 
 <!--
 COLOQUE AQUI O LINK PARA A DEMONSTRAÇÃO DO PROJETO
@@ -65,7 +57,7 @@ https://brunohosantos.github.io/Music-Player/
 ---
 
 ## 🖼️ Preview do Projeto
-
+![Music-Player](Imagens Projeto\Jornada_Dev__Music_Player.png)
 <!--
 COLOQUE AQUI UMA IMAGEM OU GIF DO PROJETO
 
