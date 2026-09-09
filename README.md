@@ -1,3 +1,7 @@
+## 🖼️ Preview do Projeto
+![Music-Player](./Imagens%20Projeto/Jornada_Dev__Music_Player.png)
+
+
 # 🎵 Music Player com IA
 
 >Olá, Meu nome é Bruno Henrique, e esse Music Player é um desenvolvido com **HTML, CSS e JavaScript**, criado como projeto de estudo e prática durante um **Bootcamp de desenvolvimento**, com foco na aplicação de conceitos de programação, manipulação do DOM, eventos, reprodução de áudio e construção de interfaces interativas.
@@ -56,15 +60,6 @@ https://brunohosantos.github.io/Music-Player/
 
 ---
 
-## 🖼️ Preview do Projeto
-![Music-Player](./Imagens%20Projeto/Jornada_Dev__Music_Player.png)
-<!--
-COLOQUE AQUI UMA IMAGEM OU GIF DO PROJETO
-
-Exemplo:
-
-![Music Player](./assets/images/player-preview.png)
--->
 
 ### 📸 Imagem principal
 
