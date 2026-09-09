@@ -13,6 +13,9 @@
 https://notebook.google.com/notebook/dbf283cb-020a-4037-a663-530d9215b29f/preview
 
 ### 📚 Apresentação: 
+<a href="https://github.com/BrunoHOSantos/Music-Player/raw/refs/heads/main/Arquivos%20Projeto/JavaScript_Music_Player_Master.pptx">
+    📥 Baixar apresentação do projeto
+</a>
 
 <br/><br/>
 # 📌 Sobre o Projeto
