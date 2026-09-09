@@ -57,7 +57,7 @@ https://brunohosantos.github.io/Music-Player/
 ---
 
 ## 🖼️ Preview do Projeto
-![Music-Player](Imagens Projeto\Jornada_Dev__Music_Player.PNG)
+![Music-Player](./Imagens%20Projeto/Jornada_Dev__Music_Player.png)
 <!--
 COLOQUE AQUI UMA IMAGEM OU GIF DO PROJETO
 
