@@ -3,7 +3,7 @@
 
 
 # 🎵 Music Player com IA
-
+![Music-Player](./Imagens%20Projeto/Capa.png)
 >Olá, Meu nome é Bruno Henrique, e esse Music Player é um desenvolvido com **HTML, CSS e JavaScript**, criado como projeto de estudo e prática durante um **Bootcamp de desenvolvimento**, com foco na aplicação de conceitos de programação, manipulação do DOM, eventos, reprodução de áudio e construção de interfaces interativas.
 
 ---
