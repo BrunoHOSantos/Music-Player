@@ -50,7 +50,7 @@ Além de funcionar como um player de música, o projeto também serve como labor
 
 ## 🎧 Player funcionando
 
-![Music-Player](./Imagens%20Projeto/Gravação-de-Tela-2026-09-08-213729.gif)
+![Music-Player](./Imagens%20Projeto/Gravação%20de%20Tela%202026-09-08%20213729.gif)
 
 **🔗 Demonstração:**
 https://brunohosantos.github.io/Music-Player/
