@@ -57,60 +57,7 @@ https://brunohosantos.github.io/Music-Player/
 
 ---
 
-
-### 📸 Imagem principal
-
-`[COLOCAR IMAGEM PRINCIPAL AQUI]`
-
----
-
-### 📱 Versão Desktop
-
-`[COLOCAR IMAGEM DO DESKTOP AQUI]`
-
----
-
-### 📱 Versão Mobile
-
-`[COLOCAR IMAGEM DA VERSÃO MOBILE AQUI]`
-
----
-
-### 🎬 GIF / Demonstração
-
-`[COLOCAR GIF OU VÍDEO DEMONSTRATIVO AQUI]`
-
----
-
-# ✨ Funcionalidades
-
-Atualmente, o projeto possui ou pretende possuir as seguintes funcionalidades:
-
-* [x] ▶️ Reproduzir música
-* [x] ⏸️ Pausar música
-* [x] ⏮️ Voltar para a música anterior
-* [x] ⏭️ Avançar para a próxima música
-* [x] 🔊 Controle de volume
-* [x] 🔇 Ativar/desativar áudio
-* [x] 📊 Barra de progresso
-* [x] ⏱️ Exibição do tempo atual da música
-* [x] ⏱️ Exibição da duração total
-* [ ] 🔀 Reprodução aleatória (Shuffle)
-* [ ] 🔁 Repetição de música
-* [x] 📃 Playlist
-* [x] 🖼️ Exibição da capa da música
-* [x] 🎤 Exibição do artista
-* [x] 🎵 Exibição do título da música
-* [x] 📱 Interface responsiva
-* [ ] 🎨 Alteração dinâmica da interface
-* [ ] 💾 Persistência de algumas configurações
-* [ ] ⌨️ Controles através do teclado
-
----
-
 # 🛠️ Tecnologias Utilizadas
-
-## Front-end
 
 ### HTML5
 
