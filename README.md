@@ -9,7 +9,8 @@
 ---
 # 🤖 IA "Professor" do projeto
 
-### 🔗 Link: <a href="https://notebook.google.com/notebook/dbf283cb-020a-4037-a663-530d9215b29f/preview"> IA "Professor" </a>
+### 🔗 Link: 
+<a href="https://notebook.google.com/notebook/dbf283cb-020a-4037-a663-530d9215b29f/preview"> Click e conheça... </a>
 
 ### 📚 Apresentação: 
 <a href="https://github.com/BrunoHOSantos/Music-Player/raw/refs/heads/main/Arquivos%20Projeto/JavaScript_Music_Player_Mastery.pptx">
@@ -49,13 +50,7 @@ Além de funcionar como um player de música, o projeto também serve como labor
 
 ## 🎧 Player funcionando
 
-<!--
-COLOQUE AQUI O LINK PARA A DEMONSTRAÇÃO DO PROJETO
-
-Exemplo:
-
-[🎧 Acessar o Music Player](https://seu-link-aqui.com)
--->
+![Music-Player](./Imagens%20Projeto/Gravação-de-Tela-2026-09-08-213729.gif)
 
 **🔗 Demonstração:**
 https://brunohosantos.github.io/Music-Player/
