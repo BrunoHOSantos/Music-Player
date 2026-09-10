@@ -1,3 +1,7 @@
+## 🖼️ Preview do Projeto
+![Music-Player](./Imagens%20Projeto/Jornada_Dev__Music_Player.png)
+
+
 # 🎵 Music Player com IA
 
 >Olá, Meu nome é Bruno Henrique, e esse Music Player é um desenvolvido com **HTML, CSS e JavaScript**, criado como projeto de estudo e prática durante um **Bootcamp de desenvolvimento**, com foco na aplicação de conceitos de programação, manipulação do DOM, eventos, reprodução de áudio e construção de interfaces interativas.
@@ -5,19 +9,16 @@
 ---
 # 🤖 IA "Professor" do projeto
 
-### Link:
-https://notebook.google.com/notebook/dbf283cb-020a-4037-a663-530d9215b29f/preview
+### 🔗 Link: 
+<a href="https://notebook.google.com/notebook/dbf283cb-020a-4037-a663-530d9215b29f/preview"> Click e conheça... </a>
 
-<!--
-COLOQUE AQUI O LINK PARA A DEMONSTRAÇÃO DO PROJETO
-
-Exemplo:
-
-[🎧 Acessar o Music Player](https://seu-link-aqui.com)
--->
+### 📚 Apresentação: 
+<a href="https://github.com/BrunoHOSantos/Music-Player/raw/refs/heads/main/Arquivos%20Projeto/JavaScript_Music_Player_Mastery.pptx">
+    📥 Baixar apresentação do projeto
+</a>
 
 <br/><br/>
-## 📌 Sobre o Projeto
+# 📌 Sobre o Projeto
 
 Este projeto consiste no desenvolvimento de um **Music Player Web**, inspirado em plataformas modernas de streaming de música.
 
@@ -47,32 +48,15 @@ Além de funcionar como um player de música, o projeto também serve como labor
 
 ---
 
-# 🎧 Demonstração
+## 🎧 Player funcionando
 
-## ▶️ Player funcionando
-
-<!--
-COLOQUE AQUI O LINK PARA A DEMONSTRAÇÃO DO PROJETO
-
-Exemplo:
-
-[🎧 Acessar o Music Player](https://seu-link-aqui.com)
--->
+![Music-Player](./Imagens%20Projeto/Gravação%20de%20Tela%202026-09-08%20213729.gif)
 
 **🔗 Demonstração:**
 https://brunohosantos.github.io/Music-Player/
 
 ---
 
-## 🖼️ Preview do Projeto
-
-<!--
-COLOQUE AQUI UMA IMAGEM OU GIF DO PROJETO
-
-Exemplo:
-
-![Music Player](./assets/images/player-preview.png)
--->
 
 ### 📸 Imagem principal
 
