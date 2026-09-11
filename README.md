@@ -603,29 +603,6 @@ Este projeto permite praticar diversos conceitos importantes de desenvolvimento 
 
 ---
 
-# 🔮 Melhorias Futuras
-
-Algumas funcionalidades que podem ser adicionadas posteriormente:
-
-* [x] Sistema de busca;
-* [x] Favoritos;
-* [x] Histórico de reprodução;
-* [x] Salvamento da playlist;
-* [x] LocalStorage;
-* [x] Equalizador;
-* [x] Animações adicionais;
-* [x] Atalhos de teclado;
-* [x] Modo escuro/claro;
-* [x] Sistema de playlists personalizadas;
-* [ ] Letras das músicas;
-* [ ] Visualizador de áudio;
-* [ ] Integração com API;
-* [x] Backend;
-* [x] Banco de dados;
-* [ ] Sistema de autenticação.
-
----
-
 Resultado:
 
 | Tecnologia | Utilização |
